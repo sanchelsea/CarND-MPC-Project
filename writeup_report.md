@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 
 
 ### Results
-A video of the simulated car driving around the track can be found [here.](https://github.com/sanchelsea/CarND-MPC-Project/SDC_ND_MPC_6_2_2018_10_53_05_AM.mp4)
+A video of the simulated car driving around the track can be found [here.](https://github.com/sanchelsea/CarND-MPC-Project/blob/master/SDC_ND_MPC_6_2_2018_10_53_05_AM.mp4)
 
 
 ### Reflection
